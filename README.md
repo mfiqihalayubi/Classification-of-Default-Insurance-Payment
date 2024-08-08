@@ -2,7 +2,7 @@
 
 <center>
 
-<h1>Credit Card Customer Segmentation (Clustering)</h1>
+<h1>Classification of Default Insurance Payment </h1>
 
 ---
 
