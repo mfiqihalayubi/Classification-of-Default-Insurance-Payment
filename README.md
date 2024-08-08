@@ -12,7 +12,7 @@
 <br />
 
 ## **Background**
-
+A credit insurance customer has the obligation to make payments according to the agreed due date. If a customer cannot make payments by the due date, the credit insurance company usually takes several actions to encourage the customer to fulfill their obligation, such as increasing refund fees and lowering the credit value. If these measures do not succeed in getting the customer to pay their bills, the bank may charge off the account, or the company may stop attempting to collect the debt and write it off as a loss. This is highly detrimental to the creditor. Therefore, preventive measures are needed to periodically predict which customers will default so that the company can take appropriate actions to avoid such occurrences. Based on this problem, I will create a machine learning model that can predict the default status of customers for the upcoming month, helping the credit insurance company take preventive actions against customers likely to default.
 
 ## **Objective**
 Create a machine learning model that can predict the likelihood of customer insurance credit default status in the next month.
