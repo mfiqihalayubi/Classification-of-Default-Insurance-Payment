@@ -37,9 +37,8 @@ I took the dataset from Google Cloud BigQuery. This dataset contains 2965 entrie
 
 ## **Business Recommendation**
 
-1. As the data indicates that credit card ownership declines after the age of 31, developing financial products tailored to younger customers might help increase usage and loyalty. Additionally, products aimed at older customers, such as retirement-focused financial solutions, could be beneficial
-2. With the model’s high recall, particularly after SVM Polynomial hyperparameter tuning, the business can confidently predict potential defaulters. Consider creating preemptive measures such as early intervention programs, personalized payment plans, or targeted communication to those predicted to default
-3. Since the majority of credit card holders have a graduate or bachelor’s degree, these segments should be the primary focus for personalized financial products
+1. Consider creating preventive measures such as **early intervention programs**, personalized payment plans, or targeted intensive communication for those predicted to default.
+2. Provide customers with information at the beginning of the agreement about the consequences of defaulting and what they should do if they realize they are going to default
 
 ## **Model Improvement Recommendation**
 
